@@ -6,6 +6,7 @@ module.exports =
       title: 'Padding for =>'
       description: 'Pad left or right of the character'
       type: 'string'
+      enum: ['left', 'right']
       default: 'left'
     '=>-leftSpace':
       title: 'Left space for =>'
