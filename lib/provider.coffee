@@ -1,5 +1,5 @@
 module.exports =
-  selector: ['.source.ruby']
+  selector: ['.source.ruby', '.source.ruby.rails']
   id: 'aligner-ruby' # package name
   config:
     '=>-alignment':
