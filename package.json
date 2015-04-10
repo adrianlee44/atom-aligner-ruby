@@ -1,7 +1,7 @@
 {
   "name": "aligner-ruby",
   "main": "./lib/main",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Ruby support for aligner",
   "repository": "https://github.com/adrianlee44/atom-aligner-ruby",
   "license": "MIT",
