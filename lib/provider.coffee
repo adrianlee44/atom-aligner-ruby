@@ -61,4 +61,5 @@ module.exports =
       type: 'boolean'
       default: true
   privateConfig:
+    '=-prefixes': ['<<', '%', '&', '&&', '*', '**', '+', '-', '^', '|', '||', '/'],
     '=-scope': 'assignment'
