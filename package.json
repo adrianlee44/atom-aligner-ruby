@@ -3,6 +3,12 @@
   "main": "./lib/main",
   "version": "1.5.0",
   "description": "Ruby support for aligner",
+  "keywords": [
+    "aligner",
+    "alignment",
+    "align",
+    "ruby"
+  ],
   "repository": "https://github.com/adrianlee44/atom-aligner-ruby",
   "license": "MIT",
   "engines": {
