@@ -6,6 +6,7 @@
 Aligner must be installed along with this package. For more information, please check out [Aligner](https://github.com/adrianlee44/atom-aligner)
 
 ## Changelog
+- 2018-06-24   v1.7.0   Add support for `,`
 - 2017-05-26   v1.6.1   Fix typo in title for = config
 - 2017-05-18   v1.6.0   Add support for `eq` in Rspec
 - 2016-08-01   v1.5.0   Add prefix support to `=` operator
