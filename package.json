@@ -9,7 +9,7 @@
     "align",
     "ruby"
   ],
-  "repository": "https://github.com/adrianlee44/atom-aligner-ruby",
+  "repository": "git@github.com:adrianlee44/atom-aligner-ruby.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.9.0"
