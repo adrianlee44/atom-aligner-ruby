@@ -1,7 +1,7 @@
 {
   "name": "aligner-ruby",
   "main": "./lib/main",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "Ruby support for aligner",
   "keywords": [
     "aligner",
